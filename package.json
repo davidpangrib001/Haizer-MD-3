@@ -1,6 +1,6 @@
 {
-    "name": "OneBotz-MD",
-    "version": "1.079",
+    "name": "One",
+    "version": "1.0.1",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
     "main": "index.js",
